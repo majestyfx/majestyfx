@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majestyfx
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Frontenddesign and javascript
+- 🌱 I’m currently a software developer
 - 💞️ I’m looking to collaborate on website design 
 - 📫 How to reach me call 08146071870
 
